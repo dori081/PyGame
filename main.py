@@ -528,3 +528,5 @@ while running:
         best_time = time
 
 pygame.quit()
+
+#БастаевАлдар_БасанговаАнжелика
